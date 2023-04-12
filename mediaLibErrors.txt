@@ -1,0 +1,12 @@
+Following entry contains stoi error:
+M,Hidden Figures,9,Drama,126,2016,Jaraji P Henson,Octavia Spencer,Janelle Monae  
+
+Following entry contains stoi error:
+B,Fahrenheit 451,Ray Bradbury,Science Fiction,256,1953
+
+Following entry contains stoi error:
+M,So I Married an Axe Murderer,Thomas Schlamme  Comedy,93,1993,Mike Meyers,Nancy Travis  
+
+Following entry contains stoi error:
+S,"Thank u, next",Ariana Grande,8,Pop,207,2019 
+
